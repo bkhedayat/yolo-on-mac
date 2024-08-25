@@ -33,4 +33,6 @@ The program uses the YOLOv8n model, which can be downloaded automatically by the
 ## Usage
  To run the object detection program, execute the following command:
 
- ``` python main.py ```
+ ``` 
+ python main.py
+  ```
