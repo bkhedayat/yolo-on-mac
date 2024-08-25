@@ -20,3 +20,5 @@ Install the required Python packages using `pip`:
 
 ```bash
 pip install ultralytics opencv-python torch
+
+# Installation
