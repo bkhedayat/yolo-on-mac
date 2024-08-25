@@ -20,5 +20,11 @@ Install the required Python packages using `pip`:
 
 ```bash
 pip install ultralytics opencv-python torch
+```
+## Installation
 
-# Installation
+	1.	Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/yolov8-mac-apple-silicon.git
+cd yolov8-mac-apple-silicon
+```
