@@ -36,3 +36,27 @@ The program uses the YOLOv8n model, which can be downloaded automatically by the
  ``` 
  python main.py
   ```
+
+ ## Program Structure
+
+	•	main.py: The main script that captures video from the webcam and processes it using the YOLOv8 model.
+	•	detector.py: Contains the YOLOv8Model class responsible for loading the YOLOv8 model and performing predictions.
+
+## Expected Output
+
+The program will open a window displaying the webcam feed with bounding boxes around detected objects, along with their labels and confidence scores.
+
+Press q to exit the program.
+
+## Notes
+
+	•	Apple Silicon: This program is optimized for running on Mac computers with Apple Silicon. It runs on the CPU, taking advantage of the architecture’s efficiency.
+	•	Compatibility: Ensure you’re using the correct versions of Python and the required packages as listed in the prerequisites.
+
+## Troubleshooting
+
+If you encounter any issues, ensure that all required Python packages are installed and that your Python version is 3.8 or higher. If the program still doesn’t work, try creating a new Python virtual environment and installing the dependencies again.
+
+## License
+
+This project is licensed under the MIT License.
