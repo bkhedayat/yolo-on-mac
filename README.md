@@ -23,6 +23,9 @@ pip install ultralytics opencv-python torch
 ```
 ## Installation
 
-### Clone the repository:
-    git clone https://github.com/yourusername/yolov8-mac-apple-silicon.git
+### 1.  Clone the repository:
+    git clone https://github.com/bkhedayat/yolov8-mac-apple-silicon.git
     cd yolov8-mac-apple-silicon
+
+###	2.	Download the YOLOv8 model:
+The program uses the YOLOv8n model, which can be downloaded automatically by the script. Ensure your internet connection is active during the first run.
