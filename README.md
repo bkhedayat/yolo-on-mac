@@ -29,3 +29,8 @@ pip install ultralytics opencv-python torch
 
 ###	2.	Download the YOLOv8 model:
 The program uses the YOLOv8n model, which can be downloaded automatically by the script. Ensure your internet connection is active during the first run.
+
+## Usage
+ To run the object detection program, execute the following command:
+
+ ``` python main.py ```
