@@ -24,7 +24,7 @@ pip install ultralytics opencv-python torch
 ## Installation
 
 ### Clone the repository:
-    ```bash
+    ```
     git clone https://github.com/yourusername/yolov8-mac-apple-silicon.git
     cd yolov8-mac-apple-silicon
-     ```
+    ```
